@@ -9,10 +9,12 @@
 🏡 [website][website] **|**
 ✉️ [mail][mail] **|** 
 👔 [linkedin][linkedin] **|**
-𝕏 [X formally twitter][twitter]
+𝕏 [X formally twitter][twitter] **|**
+🦋 [bluesky][bluesky]
 
 <!--[banner]:--> 
 [website]: https://comecattin.github.io
 [linkedin]: https://fr.linkedin.com/in/come-cattin/en
 [mail]: mailto:come.cattin@ens-lyon.fr
 [twitter]: https://x.com/comecattin
+[bluesky]: https://bsky.app/profile/comecattin.bsky.social
